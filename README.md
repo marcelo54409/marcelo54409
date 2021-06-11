@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelo54409
-- 👀 I’m interested in the programming in python
+- 👀 I’m interested in the programming with python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me marceloperu09@gmail.com
